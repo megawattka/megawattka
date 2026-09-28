@@ -1,6 +1,6 @@
 ## hey, i'm Maxim
 
-21 y.o, writing code somewhere in the internet. full stack python dev by trade, rustacean by choice.
+22 y.o, writing code somewhere in the internet. full stack python dev by trade, rustacean by choice.
 
 i like building things that actually work and don't fall apart when you look at them wrong. async stuff, low-level tinkering, making tools that save time.
 
@@ -15,10 +15,9 @@ i like building things that actually work and don't fall apart when you look at 
 - **javascript** - scripts for websites
 
 right now messing with:
-- asyncio-based tools for mongodb
-- mtproto protocol experiments
+- tools and automatization
+- websites and web apps
 - telegram bots and applications
-- beautiful websites
 
 ---
 
@@ -34,11 +33,10 @@ open to full-time, contract, freelance, or just cool open source to contribute t
 
 - telegram: [@megawattka](https://t.me/megawattka)
 - timezone: utc+3
-- status: not on vacation anymore, ready to build
 
 ---
 
-### sponsor my caffeine addiction
+### donate
 
 if my code saved you time or you just feel generous:
 
