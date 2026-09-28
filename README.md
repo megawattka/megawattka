@@ -1,4 +1,4 @@
-## hey, i'm Maxim
+## hey, i'm Maksim
 
 22 y.o, writing code somewhere in the internet. full stack python dev by trade, rustacean by choice.
 
